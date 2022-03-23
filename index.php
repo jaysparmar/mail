@@ -22,7 +22,7 @@ $mail->SMTPAuth = true;
 $mail->Username = 'bharticloud@gmail.com';
 $mail->Password = 'Password';
 // $mail->Port = 465;
-//Address to which recipient will reply
+//Address to which recipient will replys
 
 //CC and BCC
 $mail->addCC("cc@example.com");
